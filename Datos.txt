@@ -1,0 +1,22 @@
+INSERT INTO CLIENTE VALUES 
+(1,'Robert','Moreira','Los Esteros','0999999999'),
+(2,'Jhonny','Larrea','El Palmar','0888888888'),
+(3,'Elsa','Vera','Villamarina','0777777777'),
+(4,'Edgardo','Panchana','Los Electricos','0666666666'),
+(5,'Dolores','Muñoz','Manta 2000','0555555555');
+
+INSERT INTO SECTOR_FUNERARIA VALUES 
+(1,'BARRIO CUBA'),
+(2,'BARRIO 5 DE JUNIO'),
+(3,'CUIDADELA UNIVERSITARIA'),
+(4,'BARRIO UMIÑA'),
+(5,'EL PALMAR');
+
+INSERT INTO FUNERARIASANTAMARIANITA VALUES 
+(1,5,1,'Virginia Saltos',300,500,800),
+(2,5,1,'Mercedes Saltos',500,300,800),
+(3,3,5,'Josue Jaramillo',450,350,800),
+(4,2,4,'Luis Moreira',150,650,800),
+(6,1,2,'Fernando Larrea',100,700,800),
+(7,4,3,'Cristina Vera',700,100,800),
+(8,4,3,'Edgar Palacios',400,400,800);
